@@ -2,6 +2,8 @@
 
 ### Java Backend Developer | DSA Enthusiast | Spring Boot
 
+> 🔄 **This is my second GitHub account, used for my current projects and development work.**
+
 I'm a B.Tech Computer Science student at **Lakshmi Narain College of Technology (LNCT)**, passionate about building backend applications and solving challenging DSA problems.
 
 - 🔭 Currently working on **Java, Spring Boot & backend development**
