@@ -7,7 +7,6 @@ I'm a B.Tech Computer Science student at **Lakshmi Narain College of Technology 
 - 🔭 Currently working on **Java, Spring Boot & backend development**
 - 🌱 Learning **System Design, Hibernate, Spring Security & GenAI/RAG**
 - 💻 Solved **1100+ DSA problems**
-- 🏆 **LeetCode Knight** | Rating **1800+**
 - 🚀 Interested in **Java Backend / Software Development roles**
 - ⚡ I enjoy turning real-world problems into scalable software solutions
 
@@ -49,10 +48,9 @@ A backend-focused flight booking application built using **Java, Spring Boot, Hi
 
 ---
 
-## 🧠 Coding Profiles
+## 🐙 GitHub
 
-- 💻 **LeetCode:** [anupam23ub](https://leetcode.com/u/anupam23ub/)
-- 🐙 **GitHub:** [anupam23ub](https://github.com/anupam23ub)
+- **GitHub:** [anupam23ub](https://github.com/anupam23ub)
 
 ---
 
